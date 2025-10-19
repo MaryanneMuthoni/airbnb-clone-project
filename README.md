@@ -27,7 +27,7 @@ The Airbnb Clone project is designed to provide a robust and scalable foundation
 7. Docker: Containerization tool for consistent development and deployment environments.
 8. CI/CD Pipelines: Automated pipelines for testing and deploying code changes.
 
-## Database design
+## Database Design
 #### Key entities:
 - Users
 - Properties
@@ -35,7 +35,7 @@ The Airbnb Clone project is designed to provide a robust and scalable foundation
 - Reviews
 - Payments
 
-## Feature breakdown
+## Feature Breakdown
 1. API Documentation
 OpenAPI Standard: The backend APIs are documented using the OpenAPI standard to ensure clarity and ease of integration.
 Django REST Framework: Provides a comprehensive RESTful API for handling CRUD operations on user and property data.
@@ -59,6 +59,6 @@ Features: Post and manage reviews for properties.
 Indexing: Implement indexes for fast retrieval of frequently accessed data.
 Caching: Use caching strategies to reduce database load and improve performance.
 
-## API security
+## API Security
 
 ## CI/CD pipelines
